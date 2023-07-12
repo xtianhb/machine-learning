@@ -1,2 +1,2 @@
-# deep-learning
-deep learning specialization ai
+# machine-learning
+machine learning stuff
